@@ -1,9 +1,11 @@
 import React from 'react'
-
+import VideoPlayer from "../Pages/VideoPlayer";
+import { Features } from '../Components/Features';
 const Body = () => {
   return (
     <div>
-      Body
+      <VideoPlayer></VideoPlayer>
+      <Features />
     </div>
   )
 }
