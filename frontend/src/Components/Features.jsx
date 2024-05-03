@@ -7,18 +7,18 @@ const Feature = [
         title : "Result analysis",
         description: "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem accusamus aspernatur suscipit consequuntur. Tempora ea libero facilis ut perspiciatis cum officia? Incidunt aliquam numquam nostrum! Suscipit odio corrupti deleniti maiores."  
     },{
-        cardimage : "res.jpg",
-        title : "Result analysis",
+        cardimage : "one.png",
+        title : "One to One mentorship",
         description: "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem accusamus aspernatur suscipit consequuntur. Tempora ea libero facilis ut perspiciatis cum officia? Incidunt aliquam numquam nostrum! Suscipit odio corrupti deleniti maiores."  
     },
     {
-        cardimage : "res.jpg",
-        title : "Result analysis",
+        cardimage : "per.png",
+        title : "performance based assessment",
         description: "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem accusamus aspernatur suscipit consequuntur. Tempora ea libero facilis ut perspiciatis cum officia? Incidunt aliquam numquam nostrum! Suscipit odio corrupti deleniti maiores."  
     },
     {
-        cardimage : "res.jpg",
-        title : "Result analysis",
+        cardimage : "test.png",
+        title : "24/7 doubt support",
         description: "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem accusamus aspernatur suscipit consequuntur. Tempora ea libero facilis ut perspiciatis cum officia? Incidunt aliquam numquam nostrum! Suscipit odio corrupti deleniti maiores."  
     }
 ]

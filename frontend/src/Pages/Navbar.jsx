@@ -9,7 +9,7 @@ const Navbar = ({ isAuthenticated }) => {
         <div className="flex justify-between items-center max-w-6xl mx-auto p-3">
           <Link to="/">
             <h1 className="font-bold text-sm sm:text-xl">
-              <span className="text-blue-700">Smary</span>
+              <span className="text-blue-700">Smart</span>
               <span className="text-slate-900">Tutor</span>
             </h1>
           </Link>

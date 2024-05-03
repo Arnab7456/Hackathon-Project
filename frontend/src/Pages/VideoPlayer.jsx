@@ -3,7 +3,7 @@ import YouTube from 'react-youtube';
 
 const VideoPlayer = () => {
   // YouTube video id
-  const videoId = '3m9GYNzKcRY';
+  const videoId = 'YKJDMg4wtUk';
 
   // YouTube player options
   const opts = {
