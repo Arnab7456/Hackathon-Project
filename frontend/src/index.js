@@ -4,7 +4,6 @@ import './index.css';
 import App from './App';
 import { BrowserRouter } from 'react-router-dom';
 import Home from './Components/Home';
-import Footer from './Components/Footer';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -12,6 +11,6 @@ root.render(
     <Home />
     <App />
   
-    <Footer />
+    
   </BrowserRouter>
 );

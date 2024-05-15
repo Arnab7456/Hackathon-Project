@@ -44,6 +44,11 @@ const Navbar = ({ isAuthenticated }) => {
               </Link>
               
           </ul>
+          <Link to="/Chatbot">
+          <li className="hidden sm:inline text-slate-700 hover:underline">
+            Ask Doubts
+          </li>
+          </Link>
         </div>
       </header>
     </div>

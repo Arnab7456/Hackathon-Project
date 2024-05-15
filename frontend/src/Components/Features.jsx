@@ -21,6 +21,22 @@ const Feature = [
         title : "24/7 doubt support",
         description: "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem accusamus aspernatur suscipit consequuntur. Tempora ea libero facilis ut perspiciatis cum officia? Incidunt aliquam numquam nostrum! Suscipit odio corrupti deleniti maiores."  
     }
+    ,{
+      cardimage: "ai.jpg",
+      title: "Ai based attendence",
+      description : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, nihil sunt animi atque ab iste inventore repellendus libero cupiditate voluptates dicta sed adipisci laborum asperiores doloribus, quidem amet ut accusantium!"
+    },
+    {
+      cardimage: "flutter.jpg",
+      title: "Advanced Mobile app",
+      description : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, nihil sunt animi atque ab iste inventore repellendus libero cupiditate voluptates dicta sed adipisci laborum asperiores doloribus, quidem amet ut accusantium!"
+    },
+    {
+      cardimage: "mock.jpg",
+      title : "mock test",
+      description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum eum totam explicabo voluptatum in maiores excepturi quos nihil soluta nisi quam aut, similique ipsam consectetur, commodi possimus reiciendis quisquam dolor."
+    }
+
 ]
 
 export const Features = () => {
